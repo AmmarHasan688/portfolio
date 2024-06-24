@@ -1,6 +1,6 @@
 # Ammar Hasan's Portfolio
 
-Welcome to my GitHub!
+Welcome to my GitLab!
 
 I am a Flutter developer passionate about building beautiful and functional mobile applications. To learn more about my skills and see my projects, please visit my portfolio:
 
