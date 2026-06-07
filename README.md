@@ -1,9 +1,14 @@
-# Ammar Hasan's Portfolio
+# Ammar Hasan — Portfolio
 
-Welcome to my GitLab!
+Personal portfolio of Ammar Hasan, Senior Flutter Developer with 7+ years building production mobile apps for Android and iOS.
 
-I am a Flutter developer passionate about building beautiful and functional mobile applications. To learn more about my skills and see my projects, please visit my portfolio:
+**Live:** https://ammarhasan688.github.io/portfolio/
 
-[https://ammarhasan688.github.io/portfolio/](https://ammarhasan688.github.io/portfolio/)
+## Stack
 
-Thank you for visiting!
+Single-file portfolio — React rendered via CDN, bundled into `index.html`. No build tools required.
+
+## Contact
+
+- Email: ammarhasan174@gmail.com
+- LinkedIn: [Ammar Hasan](https://www.linkedin.com/in/ammar-hasan-3892aa11a)
