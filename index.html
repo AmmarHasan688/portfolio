@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>Ammar Hasan · Senior Flutter Developer</title>
+  <link rel="icon" href="favicon.svg">
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body { background: #0F0E0C; display: flex; align-items: center; justify-content: center; min-height: 100vh; font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
@@ -130,7 +131,7 @@ document.addEventListener('DOMContentLoaded', async function() {
     const headOpen = template.match(/<head[^>]*>/i);
     if (headOpen) {
       const i = headOpen.index + headOpen[0].length;
-      template = template.slice(0, i) + resourceScript + template.slice(i);
+      template = template.slice(0, i) + resourceScript + '<link rel="icon" href="favicon.svg">' + template.slice(i);
     }
 
     // Parse the template and swap the root element. Scripts inserted via
